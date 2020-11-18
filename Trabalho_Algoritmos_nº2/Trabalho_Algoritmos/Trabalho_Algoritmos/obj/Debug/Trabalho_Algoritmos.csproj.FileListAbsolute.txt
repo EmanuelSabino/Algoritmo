@@ -1,0 +1,21 @@
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Trabalho_Algoritmos\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\bin\Debug\Trabalho_Algoritmos.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Algoritmos\Trabalho_Algoritmos_nº2\Trabalho_Algoritmos\Trabalho_Algoritmos\obj\Debug\Trabalho_Algoritmos.pdb

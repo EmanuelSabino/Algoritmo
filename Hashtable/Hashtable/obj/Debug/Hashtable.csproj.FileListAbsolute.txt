@@ -1,0 +1,7 @@
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\obj\Debug\Hashtable.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\ipmaia\Algoritimos_Estrutura _dados\Trabalhos_de_Grupo\Trabalho_Algoritmos_nº5\Hashtable\Hashtable\obj\Debug\Hashtable.pdb

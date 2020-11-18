@@ -1,0 +1,6 @@
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\bin\Debug\Listaguem2_InsercaoOrdenada.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\bin\Debug\Listaguem2_InsercaoOrdenada.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\bin\Debug\Listaguem2_InsercaoOrdenada.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\obj\Debug\Listaguem2_InsercaoOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\obj\Debug\Listaguem2_InsercaoOrdenada.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listaguem2_InsercaoOrdenada\Listaguem2_InsercaoOrdenada\obj\Debug\Listaguem2_InsercaoOrdenada.pdb
