@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Listaguem2_InsercaoInicio")]
+[assembly: AssemblyTitle("Listagem1_InsercaoFim")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Listaguem2_InsercaoInicio")]
+[assembly: AssemblyProduct("Listagem1_InsercaoFim")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7b04f2c3-1b4a-404d-9446-da4bf849ce99")]
+[assembly: Guid("c34981aa-5102-440a-b355-a38c5842e87b")]
 
 // Version information for an assembly consists of the following four values:
 //

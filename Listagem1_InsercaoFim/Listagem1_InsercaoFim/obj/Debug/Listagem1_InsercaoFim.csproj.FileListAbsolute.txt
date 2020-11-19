@@ -1,0 +1,7 @@
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\bin\Debug\Listagem1_InsercaoFim.exe.config
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\bin\Debug\Listagem1_InsercaoFim.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\bin\Debug\Listagem1_InsercaoFim.pdb
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\obj\Debug\Listagem1_InsercaoFim.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\obj\Debug\Listagem1_InsercaoFim.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\obj\Debug\Listagem1_InsercaoFim.exe
+C:\Users\emanu\OneDrive\Ambiente de Trabalho\Listagem1_InsercaoFim\Listagem1_InsercaoFim\obj\Debug\Listagem1_InsercaoFim.pdb

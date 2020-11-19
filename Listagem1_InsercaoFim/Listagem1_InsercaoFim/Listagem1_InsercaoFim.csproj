@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7B04F2C3-1B4A-404D-9446-DA4BF849CE99}</ProjectGuid>
+    <ProjectGuid>{C34981AA-5102-440A-B355-A38C5842E87B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Listaguem2_InsercaoInicio</RootNamespace>
-    <AssemblyName>Listaguem2_InsercaoInicio</AssemblyName>
+    <RootNamespace>Listagem1_InsercaoFim</RootNamespace>
+    <AssemblyName>Listagem1_InsercaoFim</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AntigoAluno.cs" />
+    <Compile Include="ConjuntoAlunos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
